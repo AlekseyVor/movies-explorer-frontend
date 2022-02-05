@@ -1,8 +1,1 @@
-.page {
-  font-family: Inter, Arial, sans-serif;
-  min-width: 320px;
-  background-color: #202020;
-  min-height: 100vh;
-  color: #FFFFFF;
-  margin: 0 auto;
-}
+@import url(../../blocks/page/page.css);

@@ -1,18 +1,17 @@
-.promo{
+.promo {
     background-color: #073042;
     display: flex;
     flex-direction: column;
     align-items: center;
-
 }
 
-.promo__img{
+.promo__img {
     margin: 75px 55px 0;
     width: 210px;
     height: 206px;
 }
 
-.promo__title{
+.promo__title {
     font-style: normal;
     font-weight: 400;
     font-size: 30px;
@@ -21,7 +20,7 @@
     margin: 44px 10px 0;
 }
 
-.promo__text{
+.promo__text {
     font-style: normal;
     font-weight: 400;
     font-size: 13px;
@@ -31,14 +30,13 @@
     margin: 24px 30px 80px;
 }
 
-.promo__button{
+.promo__button {
     background-color: #073042;
     margin: 0 95px 30px;
     padding: 10px 20px;
     border-radius: 3px;
     border-color: white;
     border-width: 1px;
-
 }
 
 .promo__link {
@@ -50,5 +48,4 @@
     line-height: 16px;
     margin: 0;
     text-align: center;
-    
 }
