@@ -1,0 +1,11 @@
+.table__cell {
+    background-color: #303030;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    padding: 21px 0;
+}
